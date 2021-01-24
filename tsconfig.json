@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "ES2018",
+    "lib": ["ES2018", "DOM"]
+  },
+  "include": [
+    "src/*"
+  ]
+}
